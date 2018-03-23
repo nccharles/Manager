@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
   },
   container: {
     flex: 1,
+    flexDirection: 'column',
   },
   headerContainer: {
     alignItems: 'center',
@@ -34,6 +35,7 @@ const styles = StyleSheet.create({
   },
   indicatorTab: {
     backgroundColor: 'transparent',
+
   },
   scroll: {
     backgroundColor: '#FFF',
