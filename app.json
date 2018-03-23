@@ -1,0 +1,28 @@
+{
+  "name": "Manager",
+  "displayName": "Manager",
+  "expo": {
+    "name": "Manager",
+    "description": "App from Limitless Academy",
+    "slug": "Manager",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./App/Images/login1_mark.png",
+    "splash": {
+      "image": "./App/Images/login1_mark.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

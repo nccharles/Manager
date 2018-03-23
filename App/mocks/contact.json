@@ -1,0 +1,94 @@
+{
+  "name": "Charles Ndayisaba",
+  "username": "NC Charles",
+  "address": {
+    "streetA": "KG 632 St",
+    "streetB": "505 Winona Place",
+    "streetC": "KK 200 St",
+    "streetD": "Suite 489",
+    "city": "Kigali",
+    "state": "Rwanda",
+    "country": "Rwanda",
+    "zipcode": "1111111",
+    "geo": {
+      "lat": "-75.8513",
+      "lng": "81.3262"
+    }
+  },
+  "website": "limitless.rw",
+  "bio":
+    "I am Junior Software Developer",
+  "company": {
+    "name": "Limitless Agency",
+    "catchPhrase": "It services",
+    "bs": "All apps make simple life"
+  },
+  "avatar": "https://pbs.twimg.com/profile_images/759488811466366977/1LlTvmq1_400x400.jpg",
+  "avatarBackground":
+    "http://billhobbs.com/wp-content/uploads/2013/08/utah-sky-4I7C7611.jpg",
+ 
+  "tels": [
+    { "id": 1, "name": "Mobile", "number": "+250 784 603 404" },
+    { "id": 2, "name": "Work", "number": "+250 725 682 532" }
+  ],
+  "emails": [
+    { "id": 1, "name": "Personal", "email": "charles" },
+    { "id": 2, "name": "Work", "email": "charles@limitless.rw" }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "words": "cupiditate qui cum",
+      "sentence": "Ipsum laborum quasi debitis dolores veniam.",
+      "sentences":
+        "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "paragraph":
+        "Beatae voluptas ea magni quibusdam dolorem sit aut qui. Dolorem rerum et consequuntur inventore officia excepturi dolore architecto fuga. Quia consequatur asperiores rerum qui corporis dolorum. At harum velit adipisci iste odit modi veniam ut. Deserunt quibusdam velit non ea.",
+      "image":
+        "https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/25498254_1523562201093041_9201634331133636427_n.jpg?oh=52b2dfcaa310ede5eeb3593b6e9c3b41&oe=5B47E79A",
+      "createdDate": "2017-11-21T02:33:53.770Z",
+      "user": {
+        "name": "Charles NDAYISABA",
+        "username": "NC CHARLES",
+        "avatar":
+          "https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/25152106_1512818228834105_2819306084249352274_n.jpg?oh=4a3fad80afa3ce154c8e84c1aa289664&oe=5B000EDC",
+        "email": "charles@hotmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "words": "est voluptatum aut",
+      "sentence": "Omnis omnis aut dolor quaerat sunt et optio.",
+      "sentences":
+        " If you look closely, you'll notice the energy of inspiration is all around. From the rising sun to a placid lake on a warm summer night; from our favorite books to our own reflections, the places and things from which we can draw inspiration are infinite. And the best part is that every day is a chance to capture ...",
+      "paragraph":
+        "Quam aut reprehenderit asperiores aut. Sunt quis aspernatur incidunt. Illo et perferendis ex incidunt eos ut maxime dolorem voluptatem. Qui rem nihil quos cumque eum doloribus. Quae beatae tempore commodi.",
+      "createdDate": "2017-11-20T18:04:58.858Z",
+      "user": {
+        "name": "Mugiraneza Yvette",
+        "username": "Veve",
+        "avatar":
+          "https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/21106673_212950675904244_803095176069601075_n.jpg?oh=75d58d4963eccd5b3373ce8a8f0d7d5e&oe=5B414AC4",
+        "email": "mugiraneza@yahoo.com"
+      }
+    },
+    {
+      "id": 3,
+      "words": "vitae voluptas quia",
+      "sentence": "Voluptates dolor ad rem amet voluptas.",
+      "sentences":
+        "Imbuto Foundation and Mount Kenya University, have entered a five year agreement through a signed Memorandum of Understanding (MoU), aimed at providing education opportunities for brilliant but economically disadvantaged Rwandan students in secondary schools.",
+      "paragraph":
+        "Veniam veritatis nihil illum rerum et. Temporibus facere sed delectus corporis alias. Et odio aliquid est. Quas sit et quia tempora sit eveniet quam.",
+      "createdDate": "2018-03-09T10:56:15.461Z",
+      "image": "http://en.igihe.com/local/cache-gd2/80093676940b452ddcf8a11a52372673.jpg",
+      "user": {
+        "name": "Charles Ndayisaba",
+        "username": "NCCharles",
+        "avatar":
+          "https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-0/c0.0.370.370/p370x247/19106047_1338089552973641_2012120682542658541_n.jpg?oh=cfa56805203ee7e59228542d560ea5f5&oe=5B3539EA",
+        "email": "nccharles1@gmail.com"
+      }
+    }
+  ]
+}
